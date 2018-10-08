@@ -1,6 +1,3 @@
-# Deep-Learning-Resources
-Online courses and books I use for ML &amp; CV, Math, CompSci and others
-
 # Machine Learning and Computer Vision
 ## General ML
 * [MIT Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
