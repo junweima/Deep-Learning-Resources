@@ -1,6 +1,7 @@
 # Machine Learning and Computer Vision
 ## General ML
 * [MIT Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+* [Fast.ai MOOC](http://www.fast.ai/)
 * [CMU Deep Learning](http://deeplearning.cs.cmu.edu/) ([youtube](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos))
 * [UBC ML with Nando de Freitas](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [UofT Neural Networks with Geoffrey Hinton](https://www.coursera.org/learn/neural-networks/home/welcome)
