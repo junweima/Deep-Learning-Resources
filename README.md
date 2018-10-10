@@ -20,6 +20,8 @@
 * [UCF](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
 * [Georgia Tech & Udacity](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 * [Princeton Robotics](https://www.coursera.org/learn/robotics-perception/home/welcome)
+* [book: Computer Vision: Algorithms and Applications](https://www.amazon.com/Computer-Vision-Algorithms-Applications-Science/dp/1848829345)
+* [book: Computer Vision: Models, Learning, and Inference](https://www.amazon.com/Computer-Vision-Learning-Inference-2012-06-18/dp/B01N7MROUQ)
 
 ## Natural Language Processing
 * [Stanford CS224n](http://web.stanford.edu/class/cs224n/archive/WWW_1617/index.html)
@@ -43,7 +45,7 @@
 
 ## Calculus
 * [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-* [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+* [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 ## Convex Optimization
 * [CMU Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
